@@ -1,0 +1,344 @@
+[
+  {
+    "_attribute": "review-id", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 3173
+  }, 
+  {
+    "_attribute": "review-id", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 4888
+  }, 
+  {
+    "_attribute": "review-id", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "name", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 46444
+  }, 
+  {
+    "_attribute": "name", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 80480
+  }, 
+  {
+    "_attribute": "name", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 773
+  }, 
+  {
+    "_attribute": "service", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 31541
+  }, 
+  {
+    "_attribute": "service", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 38782
+  }, 
+  {
+    "_attribute": "service", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "title", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 79282
+  }, 
+  {
+    "_attribute": "title", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "title", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 53548
+  }, 
+  {
+    "_attribute": "eye-color", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 13184
+  }, 
+  {
+    "_attribute": "eye-color", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 16324
+  }, 
+  {
+    "_attribute": "eye-color", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "age", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 57449
+  }, 
+  {
+    "_attribute": "age", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "age", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 48519
+  }, 
+  {
+    "_attribute": "multiple-providers", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "multiple-providers", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "multiple-providers", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "hair-color", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 12421
+  }, 
+  {
+    "_attribute": "hair-color", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 19996
+  }, 
+  {
+    "_attribute": "hair-color", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "weight", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 8910
+  }, 
+  {
+    "_attribute": "weight", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 12601
+  }, 
+  {
+    "_attribute": "weight", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "height", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 12361
+  }, 
+  {
+    "_attribute": "height", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 19559
+  }, 
+  {
+    "_attribute": "height", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "content", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 88607
+  }, 
+  {
+    "_attribute": "content", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 89038
+  }, 
+  {
+    "_attribute": "content", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 51584
+  }, 
+  {
+    "_attribute": "phone", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 66778
+  }, 
+  {
+    "_attribute": "phone", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 80268
+  }, 
+  {
+    "_attribute": "phone", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 51613
+  }, 
+  {
+    "_attribute": "posting-date", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 59747
+  }, 
+  {
+    "_attribute": "posting-date", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 65794
+  }, 
+  {
+    "_attribute": "posting-date", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 44322
+  }, 
+  {
+    "_attribute": "street-address", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 15153
+  }, 
+  {
+    "_attribute": "street-address", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 17481
+  }, 
+  {
+    "_attribute": "street-address", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "location", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 89692
+  }, 
+  {
+    "_attribute": "location", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 86977
+  }, 
+  {
+    "_attribute": "location", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 52961
+  }, 
+  {
+    "_attribute": "price", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 23618
+  }, 
+  {
+    "_attribute": "price", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 41723
+  }, 
+  {
+    "_attribute": "price", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 7257
+  }, 
+  {
+    "_attribute": "nationality-ethnicity", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 33060
+  }, 
+  {
+    "_attribute": "nationality-ethnicity", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 36345
+  }, 
+  {
+    "_attribute": "nationality-ethnicity", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "email", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 3312
+  }, 
+  {
+    "_attribute": "email", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 6742
+  }, 
+  {
+    "_attribute": "email", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 2800
+  }, 
+  {
+    "_attribute": "social-media-id", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 305
+  }, 
+  {
+    "_attribute": "social-media-id", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 3299
+  }, 
+  {
+    "_attribute": "social-media-id", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 699
+  }
+]
