@@ -1,0 +1,344 @@
+[
+  {
+    "_attribute": "review-id", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 98
+  }, 
+  {
+    "_attribute": "review-id", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 165
+  }, 
+  {
+    "_attribute": "review-id", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "name", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 1365
+  }, 
+  {
+    "_attribute": "name", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 2056
+  }, 
+  {
+    "_attribute": "name", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 5
+  }, 
+  {
+    "_attribute": "service", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 1166
+  }, 
+  {
+    "_attribute": "service", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 1283
+  }, 
+  {
+    "_attribute": "service", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "title", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 2204
+  }, 
+  {
+    "_attribute": "title", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "title", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 52
+  }, 
+  {
+    "_attribute": "eye-color", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 583
+  }, 
+  {
+    "_attribute": "eye-color", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 725
+  }, 
+  {
+    "_attribute": "eye-color", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "age", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 753
+  }, 
+  {
+    "_attribute": "age", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "age", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 51
+  }, 
+  {
+    "_attribute": "multiple-providers", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "multiple-providers", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "multiple-providers", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "hair-color", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 674
+  }, 
+  {
+    "_attribute": "hair-color", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 813
+  }, 
+  {
+    "_attribute": "hair-color", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "weight", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 378
+  }, 
+  {
+    "_attribute": "weight", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 542
+  }, 
+  {
+    "_attribute": "weight", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "height", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 498
+  }, 
+  {
+    "_attribute": "height", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 772
+  }, 
+  {
+    "_attribute": "height", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "content", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 2306
+  }, 
+  {
+    "_attribute": "content", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 2337
+  }, 
+  {
+    "_attribute": "content", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 48
+  }, 
+  {
+    "_attribute": "phone", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 871
+  }, 
+  {
+    "_attribute": "phone", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 1688
+  }, 
+  {
+    "_attribute": "phone", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 46
+  }, 
+  {
+    "_attribute": "posting-date", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 653
+  }, 
+  {
+    "_attribute": "posting-date", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 1169
+  }, 
+  {
+    "_attribute": "posting-date", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 32
+  }, 
+  {
+    "_attribute": "street-address", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 750
+  }, 
+  {
+    "_attribute": "street-address", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 928
+  }, 
+  {
+    "_attribute": "street-address", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "location", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 2376
+  }, 
+  {
+    "_attribute": "location", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 2119
+  }, 
+  {
+    "_attribute": "location", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 50
+  }, 
+  {
+    "_attribute": "price", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 820
+  }, 
+  {
+    "_attribute": "price", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 1358
+  }, 
+  {
+    "_attribute": "price", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 38
+  }, 
+  {
+    "_attribute": "nationality-ethnicity", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 1067
+  }, 
+  {
+    "_attribute": "nationality-ethnicity", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 1211
+  }, 
+  {
+    "_attribute": "nationality-ethnicity", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 0
+  }, 
+  {
+    "_attribute": "email", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 346
+  }, 
+  {
+    "_attribute": "email", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 653
+  }, 
+  {
+    "_attribute": "email", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 33
+  }, 
+  {
+    "_attribute": "social-media-id", 
+    "extractor": "high_precision", 
+    "landmark": 0, 
+    "page_count": 72
+  }, 
+  {
+    "_attribute": "social-media-id", 
+    "extractor": "high_recall", 
+    "landmark": 0, 
+    "page_count": 181
+  }, 
+  {
+    "_attribute": "social-media-id", 
+    "extractor": "lattice", 
+    "landmark": 0, 
+    "page_count": 4
+  }
+]
